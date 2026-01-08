@@ -1,3 +1,24 @@
+<h1 align="center"> Hello There 👋 </h1>
+
+<p align="center">
+AI Engineer | GenAI Systems | LLM, RAG & Multi-Agent Architectures
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- I’m **Anant Aggarwal**
+- I build **production-ready GenAI systems**, not demos
+- Hands-on with **LLMs, RAG pipelines, multi-agent workflows, and tool-calling architectures**
+- Strong focus on **scalable, deployable AI applications**
+- Actively applying for **AI Engineer / GenAI Engineer** roles
+
+🔗 **LinkedIn:**  
+👉 https://www.linkedin.com/in/anant-aggarwal-2a4n6a8n0t/
+
+---
+### 🛠️ Tech Stack & Skills
 <table align="center">
   <!-- Row 1 -->
   <tr>
@@ -132,3 +153,7 @@
     </td>
   </tr>
 </table>
+
+<h3>Thanks for stopping by!! 😊</h3>
+
+⭐ *I focus on building AI systems that work reliably in production, not just in notebooks.*
